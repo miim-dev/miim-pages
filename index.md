@@ -11,3 +11,5 @@ Imagine not just an editor but a full fletched IDE in your terminal, able to
 not only debug your frontend but also your backend applications.
 
 All that with a plugin API similar to VS Code.
+
+<strong>Join the discussion at [github.com/miim-dev/miim](https://github.com/miim-dev/miim).</strong>
